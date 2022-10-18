@@ -1,4 +1,4 @@
-##Introduction : 
+#Introduction : 
 
 we will talk about the seniors project for devolop , adap. we have to explore the code and have some bug,and no have setting buttom some mode to appropriate for any user. we need to make better.some database existing we extracted to use and change font , background for interrested. 
 
