@@ -109,15 +109,16 @@ form.top{
   position: relative;
   align-items: center;
 }
-![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583765-77e6b085-e60f-45d0-b65e-5a36a3705e64.png)
 
 
-![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583774-d29355eb-8681-41d4-a2d0-bd4c498fedd4.png)
-
-![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583658-7711736f-fa07-46f7-a8f6-ae61c0d8e2b3.png)
-![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583671-f929cf17-b21a-4ba1-a3b1-2f60fc996c79.png)
+![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583835-8c01c29b-4d2d-47c9-9440-a8d95e7bb302.png)
+![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583846-a8bd4d30-f835-4d52-be89-a251cdffc10a.png)
 
 
+
+
+![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583861-b2c887c9-6cf4-4521-9211-4e935f29ff07.png)
+![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583865-4f761e57-6b3c-4527-afbc-b730868506e0.png)
 
 
 
