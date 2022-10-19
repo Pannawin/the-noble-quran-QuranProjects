@@ -110,5 +110,12 @@ form.top{
   align-items: center;
 }
 
+![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583658-7711736f-fa07-46f7-a8f6-ae61c0d8e2b3.png)
+![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583671-f929cf17-b21a-4ba1-a3b1-2f60fc996c79.png)
 
-https://www.picz.in.th/image/vW1hNv
+
+
+![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583695-db201ae6-1279-4f3f-997f-acccbb6e04e4.png)
+![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583697-ffacb2a0-c728-4d6f-97d5-584f9a59250f.png)
+
+
