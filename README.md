@@ -116,10 +116,12 @@ form.top{
 
 ![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583835-8c01c29b-4d2d-47c9-9440-a8d95e7bb302.png)
 ![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583846-a8bd4d30-f835-4d52-be89-a251cdffc10a.png)
+การเเสดงผลหลังดึงข้อมูลจาก database
+
 
 
 ![309445721_677454160465277_5276363645776308690_n](https://user-images.githubusercontent.com/96861429/196703100-bf013acf-b6d5-4479-bf89-e3d4d4b9daf8.jpg)
-icon option
+icon option for change languages
 
 
 
