@@ -17,4 +17,4 @@ We want to create a translation and explanation that best matches the text of th
 # Constraints : 
 The current limitation is There is not enough information and knowledge to solve the problems encountered and to add functions that are not fully as planned. But we will continue to develop to achieve the goal.
 
-#Activity diagram :
+
