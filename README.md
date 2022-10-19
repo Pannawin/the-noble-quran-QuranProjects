@@ -117,8 +117,7 @@ form.top{
 
 
 
-![Screenshot 2022-10-19 082536](https://user-images.githubusercontent.com/96861429/196583861-b2c887c9-6cf4-4521-9211-4e935f29ff07.png)
-![Screenshot 2022-10-19 081400 web page](https://user-images.githubusercontent.com/96861429/196583865-4f761e57-6b3c-4527-afbc-b730868506e0.png)
+
 
 
 
